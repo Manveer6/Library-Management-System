@@ -248,3 +248,22 @@ cl /EHsc /std:c++17 /O2 /utf-8 /D_WIN32_WINNT=0x0A00 /DNTDDI_VERSION=0x0A000002 
 │   └── js/                     # Client scripts (API client, Auth, Catalog, Admin, Loans)
 └── vendor/                     # Standalone header dependencies (Crow, Asio, SQLite shim)
 ```
+
+
+## Project Contributors
+
+This project was developed as a collaborative academic project. All team members contributed to the project through planning, preparation, development, and documentation.
+
+**Repository Maintainer:** Manveer Kaur (@Manveer6)
+
+**Original Repository:** Arshz-07
+
+**Project Type:** Collaborative Academic Project
+
+### Contributions
+- Project planning and requirement analysis
+- System design and preparation
+- Development and implementation
+- Documentation and testing
+
+*The repository is maintained under Manveer6's GitHub account. Original commit history has been preserved.*
